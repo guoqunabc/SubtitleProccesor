@@ -1,0 +1,735 @@
+1
+00:00:00,030 --> 00:00:05,578
+现在我专注于喷射通气研究从那以后十多年一直坚持喷射通气研究。
+Now jet ventilation i'm belonging to I'm staying on jet ventilation then since more than a decade.
+
+2
+00:00:05,609 --> 00:00:19,798
+它在我实验室是绝对必需品。我的护士长每天早上打开喷射通气装置，下午或者晚上离开时关闭它。
+It's the absolutely necessity in my lab and my main nurse starts every morning to put on the jet ventilator and goes out of the lab in the afternoon or in the evening and put it off.
+
+3
+00:00:19,829 --> 00:00:26,368
+所以它始终是我实验室里的主要必需品。
+So it's always the main essential stuff in my lab.
+
+4
+00:00:26,399 --> 00:00:28,769
+喷射通气的优点很简单。
+Now one of the main advantages of jet ventilation is simply.
+
+5
+00:00:28,800 --> 00:00:34,469
+它在同一时间为您提供了通气和介入治疗。
+The fact that it offers you one access for ventilation and intervention at the same time.
+
+6
+00:00:34,500 --> 00:00:46,978
+如果你现在比较两张图片，你可以从第二张图片看到声门上的介入提供了更多更多的空间，在肺部运用中也是如此。
+And if you compare now the second picture here you have a lot of much more more space, more space to intervene from a supraglottic view and this is as well true for a lot of applications in the lung.
+
+7
+00:00:47,009 --> 00:01:00,478
+喷射通气是一个非常复杂的问题，你必须要明白的是，对于喷射通气必须开放式通气。
+Now physiology of jet ventilation is a very complex thing one of the main things what you have to understand is that for a jet ventilation you always have to have an open ventilation.
+
+8
+00:01:00,509 --> 00:01:03,000
+这是最主要的之一。
+That's one of the main things.
+
+9
+00:01:03,030 --> 00:01:08,548
+第二件事是你始终拥有探索灵感。
+The second one is that you have to have always inspiration exploration at the same time.
+
+10
+00:01:08,578 --> 00:01:19,078
+第三件事是你必须意识到有些患者有胸壁顺应性问题。
+And one of the the third things is that you have to be aware that some of the patients have a problem with thoracic wall compliance.
+
+11
+00:01:19,108 --> 00:01:30,620
+只有极少数患者不能运用喷射通气，这类患者在我认识的所有患者中占比不足百分之一。
+So there are only a very few patients which is where you cannot apply jet ventilation that's less than one percentage of all the patients I knew.
+
+12
+00:01:30,650 --> 00:01:41,489
+现在，让我们说说老式的 喷射通气。只有一种频率的通气，你可以选择低频或者高频。
+Now if you look for let's say the older forms of jet ventilation you only have one frequency and in regards to physiology you either can choose with a low frequency or a high frequency.
+
+13
+00:01:41,519 --> 00:01:51,328
+低频或高频带
+With a low frequency that means you can induce tidal ventilation. With a higher frequency you can increase for example your peep that means oxygenation.
+
+14
+00:01:51,358 --> 00:02:04,828
+使用你的窥视，这意味着氧气，但
+But if you combine two of these means so if you have a machine offering you a normal frequency jet and a higher frequency jet at the same time you can overlay these two physiologies.
+
+15
+00:02:04,858 --> 00:02:11,840
+两种生理学，为您提供
+And that offers you great advantages as you control po2 and pco2 at the same time.
+
+16
+00:02:11,870 --> 00:02:28,478
+时间，如果你申请这个你还有一个
+If you apply this you still have a bi-level ventilation but on both levels you have still oscillation and by this oscillation you can reduce pco2 by less plateau pressures.
+
+17
+00:02:28,508 --> 00:02:40,758
+高原压力这是一个伟大的
+This is a great advantage in comparison to conventional tidal ventilation like by power and this is well very well published if you look into the literature.
+
+18
+00:02:40,788 --> 00:02:55,370
+进入较老的文献 - 来自
+That's older - from 2012 showing that if you compare superimpose higher frequency jet ventilation with normal jet ventilation, then you can see that the oxygenation is better as well as the pco2 clearance is better.
+
+19
+00:02:55,400 --> 00:02:57,679
+更好，这是pco2清除
+So that is the pco2 clearance.
+
+20
+00:02:57,709 --> 00:03:03,788
+这是氧合作用，它会好得多。
+That's the oxygenation. It's much better than normal frequency jet ventilation。
+
+21
+00:03:03,818 --> 00:03:14,627
+现在Carl Reiner介绍了双胞胎
+Now Carl Reiner has introduced the TwinStream. And Carl Reiner as a company from Austria has designed a lot of instruments optimal for the double frequency jet ventilation.
+
+22
+00:03:14,657 --> 00:03:23,719
+频率喷射通气这是其中之一
+This is one of the examples you can get it for ENT problem but as well for for rigid bronchoscopy in the normal pulmonary area.
+
+23
+00:03:23,750 --> 00:03:32,329
+这是双胞胎的监视器
+This is the monitor of the TwinStream. you can apply as well each relations as well for the high frequency as well for the low frequency.
+
+24
+00:03:32,359 --> 00:03:45,889
+以及当然的低频率
+Of course you can apply the working pressure which is in easy settings only relay related or linked to the body weight.
+
+25
+00:03:45,919 --> 00:03:55,250
+体重越复杂
+For the more complex procedures or views you can you can setup it manually.
+
+26
+00:03:55,280 --> 00:04:04,550
+像激光功能这样的功能
+You have variable functions like laser function here for example you have complete real-time measurement of all the precious which induce so.
+
+27
+00:04:04,580 --> 00:04:22,400
+诱导这样，我相信这很容易
+And I believe it's a very easy and safe mean it's a very good machine and I mean very well known applications thoracic surgery and ICU in ent but as well an intervention pulmonology.
+
+28
+00:04:22,430 --> 00:04:32,720
+我亲自使用它或多或少700
+Personally I'm using it more or less 700 to 800 times per year at the moment international pulmonology as well interventional cardiology I will show you that later on some examples.
+
+29
+00:04:32,750 --> 00:04:46,909
+你以后的一些例子现在有些
+Now some people believe that jet ventilation is still a dangerous thing that is definitely not true you have a real-time pressure monitoring so you don't have to fear borrow trauma as long as you keep that access open.
+
+30
+00:04:46,939 --> 00:04:58,340
+那个访问开放你有一个
+You have a humidification system you can control separately by superposed on frequency jet ventilation po2 and pco2 by the two different frequencies.
+
+31
+00:04:58,370 --> 00:05:09,679
+如果你想要不同的频率
+If you want to apply it in an easy and quick way you only look for weight based parameters and of course there are a lot of instruments certified for that TwinStream.
+
+32
+00:05:09,709 --> 00:05:25,008
+流我们现在在2008年发表于此
+Now we published in 2008 in this more or less registry we analyzed in hundred patient 3,300 meters measurements and this is a typical application as we use it in non rigid approaches.
+
+33
+00:05:25,038 --> 00:05:35,780
+接近，所以我们使用那个喷射帽
+So we use that jet cap that's a double lumen cap in which we can do more or less everything which we can do as well over rigid microscopy.
+
+34
+00:05:35,810 --> 00:05:40,638
+喷气式飞机凯西有急诊室，我有另一个
+Beside that jet catheter has ER and I have another flexible solution that's a jet tube.
+
+35
+00:05:40,668 --> 00:05:49,460
+这是我们喜爱的特别设计的电子管
+That's a specially designed tube we love this approach very much because it gives us as well stability in the fairings for the tongue for example.
+
+36
+00:05:49,490 --> 00:06:05,030
+例如，舌头就是这样
+And it's very easy to put in Jimmy I have to pay the anesthesiologist so one hour of anesthesiology costs me 250 to 300 euro and that saves me around 200 euro per case.
+
+37
+00:06:05,060 --> 00:06:15,559
+现在，如果你进入指标和
+Now if you go into the metrics and of literature you can see that in the last three years you have a four-fold increase about nasal jet ventilation.
+
+38
+00:06:15,588 --> 00:06:23,539
+增加鼻腔喷射通气所以
+So it's an upcoming method and I just want to show you some of the examples what we do in my lab.
+
+39
+00:06:23,569 --> 00:06:31,669
+在我的实验室做，所以这是一个很抱歉
+So this is a so sorry for that the audio is not working at the moment oh you can hear you can hear it.
+
+40
+00:06:31,699 --> 00:06:38,900
+是的，所以你听到了喷气式呼吸机
+Yeah so that you hear the jet ventilator in the background and you see there's no lung movement although we go transfer acid for navigated small approach.
+
+41
+00:06:38,930 --> 00:06:49,299
+酸用于导航小方法所以
+So that is more or less interventional radiology this is done under cooling City at the moment from Philips clarity.
+
+42
+00:06:49,329 --> 00:06:57,619
+这是IBA的一次破坏所以它是一个
+This is a puncture of IBAs so it's a pericardial excess pericardial excess by IBAs we published this in 2016.
+
+43
+00:06:57,649 --> 00:07:04,249
+我们在2016年发布的IBAs是
+We are doing that regularly you can see it here.
+
+44
+00:07:04,278 --> 00:07:10,369
+你在这里再次拒绝你
+You all you again here the reject ventilator in the background you see the needle in the pericardium.
+
+45
+00:07:10,399 --> 00:07:15,950
+你看到跳动的心脏，没有
+You see beating heart and nothing happens we absolutely essential thing for this.
+
+46
+00:07:15,980 --> 00:07:20,809
+为此，这种方法就是你
+For this approach is that you have perfect control of alarm right and that's what we can avert.
+
+47
+00:07:20,838 --> 00:07:28,460
+这就是我们可以避免的事情
+Let's will be achieved with a their nasal jet ventilation we do that for analysis of pericardial effusion.
+
+48
+00:07:28,490 --> 00:07:42,619
+心包积液你可以看我怎么样
+You can see how I retract retrieve that pericardial effusion now again very easy application.
+
+49
+00:07:42,649 --> 00:07:49,760
+这是在我们听到的热成形术期间
+This is during thermoplasty as we heard before again you have to have a very good control of the lung.
+
+50
+00:07:49,790 --> 00:07:55,369
+良好的肺部控制，这是
+And this is the regular set up the the jet ventilator.
+
+51
+00:07:55,399 --> 00:07:58,400
+你没有在月球上看到它，但你可以
+You don't see it at the moon but you can maybe you hear it in the in the background again.
+
+52
+00:07:58,430 --> 00:08:05,179
+再次背景这是一个过激行为
+It's a the excesses again the nasal jet ventilation so nothing special.
+
+53
+00:08:05,209 --> 00:08:07,309
+但绝对控制肺部
+But absolutely control about the lung
+
+54
+00:08:07,338 --> 00:08:16,820
+再次是微波炉的问题
+Again is the issue during microwave ablation transfer assic approach we use it like this.
+
+55
+00:08:16,850 --> 00:08:25,659
+在这里，我们测量时间
+Here we measured the times on/off table for example when you compare this approach to intubation anesthesiology.
+
+56
+00:08:25,689 --> 00:08:33,559
+麻醉学它更快更快
+It is much faster and it's easier we only need 10 minutes of taking on alpha paper out of the table.
+
+57
+00:08:33,589 --> 00:08:39,349
+如果你去放松的话
+And if you go for relaxation as it is done with anesthesiology you take much longer time.
+
+58
+00:08:39,379 --> 00:08:48,139
+更长的时间，所以快速快速容易
+So very quick fast easy we control during microwave ablation bleeding for example as well with that instrument.
+
+59
+00:08:48,168 --> 00:08:55,840
+仪器让放射科医生喜欢
+So the radiologists love the approach you have perfect control of lung movement as you can see it here.
+
+60
+00:08:55,870 --> 00:09:02,660
+完美的控制，你真的可以告诉
+Perfect control. You really can tell the interventional radiologists when nothing is happening in the line and you still have control of the blood gases.
+
+61
+00:09:02,690 --> 00:09:13,099
+现在已经控制了血气
+Now as well one thing is that we can use that jet cap as a mean for rigid stenting.
+
+62
+00:09:13,129 --> 00:09:22,340
+虽然这意味着我们已经应用了这个J.
+Though that means we've applied this J stenting in a septic Branca fistula we applied register and deployment on nasal jet cuff.
+
+63
+00:09:22,370 --> 00:09:33,649
+所以这意味着我们开始穿夹克
+So it means we started with a jacket for ventilation in that septic patient and then we applied over the cha-cha rigid to deploy the stent right so that gives you more security.
+
+64
+00:09:33,678 --> 00:09:46,820
+当你开始时，你会更安全
+When you start that process and for example very critical patients this is another example where we apply with different working parameters in the trachea.
+
+65
+00:09:46,850 --> 00:10:00,677
+气管中的参数是一个
+So that was a per nasal and the luminal abscess drainage that's a7f pigtail calf you had to get into that caveat you have to keep it open by that Jaguar.
+
+66
+00:10:00,707 --> 00:10:07,099
+以捷豹为例打开它
+For example, there's the jacket for ventilation on the other side.
+
+67
+00:10:07,129 --> 00:10:09,619
+这就是我销售Viktor的原因
+And that's me the selling of Viktor.
+
+68
+00:10:09,649 --> 00:10:17,940
+这样做是灵活的，不是僵硬的
+This is done flexible not rigid right so again cheaper fast easy quick excels.
+
+69
+00:10:17,970 --> 00:10:34,690
+而且总有一点是要记住这一点
+And always one point is to remember that you have situations where you have the to apply the so-called digital ventilation that is for example sometimes intricate rocky lacerations or tracker surgery where you have to go beyond your problem to ventilate and the jet.
+
+70
+00:10:34,720 --> 00:10:51,460
+再次，这很容易做到
+Again this is very easy to be done by the jet copter that was a case where we've fixated and and the truck will stand through a birdie needle there you I grew up with the Versa needle that they have a grabber to get that.
+
+71
+00:10:51,490 --> 00:11:03,700
+但要获得那条线，如果我有
+But to get that line and if I had ventilated from above you know then we had a lot of movement from below you know it's much easier for us to grab that thing.
+
+72
+00:11:03,730 --> 00:11:24,999
+那东西这是茶壶的情况
+This is a tea pot case so related channel by a navigation and you can see again no lung movement all I have absolutely time to rotate my ENB cap right to get into that module that was around 18 millimeters 90 millimeters.
+
+73
+00:11:25,028 --> 00:11:41,410
+并且是一种类癌，这也是
+And was a carcinoid and again this is absolutely a necessity of complete and perfect learn control right we use it sometimes as well in charges so for lvr.
+
+74
+00:11:41,440 --> 00:11:52,599
+例如，我们试图证明是否负载
+For example we try to prove if the load is dense by indirect ventilation or direct ventilation of the lobe itself so we can prove with a with a jet ventilation in an indirect mean.
+
+75
+00:11:52,629 --> 00:12:03,820
+间接通风如果是
+If the lobe is really dense now I just want to show you one case of my cone beam CT lab.
+
+76
+00:12:03,850 --> 00:12:12,580
+那是一位667岁的女士
+That was a lady 67 years old she had these nodules for three years so that is a nodule about 11 millimeters and one model of 80 millimeters.
+
+77
+00:12:12,610 --> 00:12:20,050
+80毫米的模型都是
+It was both bronchus and positive and vessels I'm positive now seems to be not that complicated.
+
+78
+00:12:20,080 --> 00:12:22,540
+很复杂，但你可以看到会发生什么
+But you can see what will happen.
+
+79
+00:12:22,570 --> 00:12:25,269
+现在发生的是清晰度社区
+Now that's the clarity community.
+
+80
+00:12:25,298 --> 00:12:32,340
+我使用清晰度我从一开始就知道
+I use clarity I've been known since one and a half years so we changed from Siemens to gravity that was due to some economical things.
+
+81
+00:12:32,370 --> 00:12:38,849
+这台机器的一个优点是
+One advantage of that machine is that you can apply everything.
+
+82
+00:12:38,879 --> 00:12:41,129
+现在你没有实验室规划
+The whole planning in the lab now you don't have to go outside.
+
+83
+00:12:41,158 --> 00:12:48,748
+去外面是啊有一些
+Yeah there are some disadvantages for example you cannot steer the Hat by Phillips from the head itself.
+
+84
+00:12:48,778 --> 00:12:50,940
+本身你有西门子的一些旋钮
+You have some knobs with Siemens
+
+85
+00:12:50,970 --> 00:12:54,450
+你现在可以这么做了
+You can do that now we used these days.
+
+86
+00:12:54,480 --> 00:13:02,129
+我们e / m和机器所以美敦力
+we the e/m and machine so the Medtronic system now we change to bronchus as well we have a combination of vbn and commune city now.
+
+87
+00:13:02,158 --> 00:13:11,427
+现在的城市，但我们设法得到
+But however we managed to get there and what we saw is we had let's say quite good overlay of a pre-planned flat path
+
+88
+00:13:11,457 --> 00:13:21,028
+扁平的路径，然后我们试着看到它
+And then we try to see it with our MB with our Ibis and it was around 12 o'clock we were not satisfied with that.
+
+89
+00:13:21,058 --> 00:13:25,408
+我们已经完成了另一个km城市和我们
+We've done another km city and we could see that the nodules separated during the manipulation.
+
+90
+00:13:25,437 --> 00:13:28,649
+在这里操纵你可以看到
+Here you can see that not just separated.
+
+91
+00:13:28,678 --> 00:13:41,729
+那不只是分开你再次做到了
+You did it again managed to get into into that module and again here you can see the overlay of 2d and 3d and the MV activity.
+
+92
+00:13:41,759 --> 00:13:50,998
+和3D以及MV活动当然
+And of course he see the movement it always depends on the control of the lung hyperinflation.
+
+93
+00:13:51,028 --> 00:13:53,879
+再这就是你控制的东西了
+So again that's what you control with a jet ventilator.
+
+94
+00:13:53,908 --> 00:14:00,298
+根据杰克呼吸机
+According to the precious and this was emitted lung tumor.
+
+95
+00:14:00,327 --> 00:14:04,099
+所以第一个房客不是恶性的
+So the first lodger was not malignant.
+
+96
+00:14:04,129 --> 00:14:10,677
+现在这个案子很有意思
+Now the interesting thing in that case was as we tried to figure out what this module was.
+
+97
+00:14:10,707 --> 00:14:21,119
+模块又是一个超过三个的金莺
+Again an Oriole over three years we saw in EN and we always could reach that part not that part so we segmented again that module and we only wanted to get into that area.
+
+98
+00:14:21,149 --> 00:14:32,460
+我想进入那个区域就是为什么
+That's why we did it again transfer asset so a plant 3d transfer asset approach and this was a lipid ik adenocarcinoma beside an omlette lung tumor.
+
+99
+00:14:32,490 --> 00:14:41,609
+旁边是一个omlette肺肿瘤所以我们是
+So we were quite interesting case and all this is done and a community and jet ventilation.
+
+100
+00:14:41,639 --> 00:14:52,899
+现在来看看Ender's for nasal
+Now to come to the Ender's for me nasal tone is jet ventilation especially nasal jet ventilation is an absolutel necessity and intervention pulmonology
+
+101
+00:14:52,928 --> 00:15:04,149
+我们正在做大约70起案件
+And we're doing about 70 cases in on regular lap approaches with jet ventilation you do not have to fear any barotrauma
+
+102
+00:15:04,178 --> 00:15:07,479
+barotrauma你我们有一个非常安全的二氧化碳
+You we have a very safe co2 elimination.
+
+103
+00:15:07,509 --> 00:15:19,269
+在那篇论文中我们消除了
+In that one paper we published we couldn't find any risk sign in regards to age in regards to body weight in regards to heart and sufficiency for example it's all very well published.
+
+104
+00:15:19,298 --> 00:15:28,210
+很好地发表所以唯一的事情是
+So the only thing was that after an average time of 42 minutes we saw a little increase of pco2 on average.
+
+105
+00:15:28,240 --> 00:15:39,190
+平均但我们已经不再知道了
+But we have no longer known none of these patients had to be ventilated by normal tube ventilation and we've done interventions up to four and a half hours only by nasal jet ventilation.
+
+106
+00:15:39,220 --> 00:15:44,649
+小时只能通过鼻腔喷射通气
+So in Germany it saves us a lot of money.
+
+107
+00:15:44,678 --> 00:16:00,879
+她的情况现在大约200欧元，不知何故
+Her case around 200 euro now and somehow you know that that video that was one of the first film MCT is I think in Shanghai when we've done that as well with the TwinStream.
+
+108
+00:16:00,908 --> 00:16:04,809
+我喜欢这段视频
+I love that video.
+
+109
+00:16:04,839 --> 00:16:20,460
+我总是表现出来因为
+Still I always show it because it's a very nice day we've done three cases during that day with live suit ology and life intervention.
+
+110
+00:16:20,490 --> 00:16:35,028
+我现在在这里进行ology和生命干预
+Now here I'm putting the jet cap you're flying the TwinStream then you have perfect control of the line.
+
+111
+00:16:35,058 --> 00:16:40,849
+完美掌控你所做的路线
+You do the dinosaur teeth of the comb in CT.
+
+112
+00:16:40,879 --> 00:16:46,460
+随你
+Whatever. Of cheese's in this case and then you have the segmentation of that module it was not that small.
+
+113
+00:16:46,490 --> 00:16:51,889
+- 在这种情况下的奶酪，然后你
+-
+
+114
+00:16:51,918 --> 00:17:02,139
+你不知道它不是那么小
+However you know for these days it was the first time in 2015.
+
+115
+00:17:02,168 --> 00:17:09,499
+在2015年，然后你分段路径
+And then you segment the path in these cases.
+
+116
+00:17:09,528 --> 00:17:31,788
+这些情况我们碰巧做了
+We happen to do a t-box so we had a Bronco sign in the thing.
+
+117
+00:17:31,818 --> 00:17:46,578
+在这件事中，这是第一个
+These were the first discussions about the training center which you now have in Shanghai about the community center.
+
+118
+00:17:46,608 --> 00:18:16,650
+所以这是一个非常复杂的领域
+So that's a very sophisticated area to learn all these technologies just let it prove it's too and it's so the people understand how code Masucci works.
+
+119
+00:18:16,680 --> 00:18:27,460
+现在你有了所见的3D模型
+Now you have the 3d model as you see on the floor oh you don't see really that kind of of lesion and you do a three-edged angulations.
+
+120
+00:18:27,490 --> 00:18:40,470
+你做了一个三角形的角度我们
+We see how the 3d and 2d overlays that's quite a good overlay we are centered Here.
+
+121
+00:18:40,500 --> 00:18:43,650
+我们对活检有很高的特异性
+We have a high specificity of biopsy because we have controlled it with our Eva's as well.
+
+122
+00:18:43,680 --> 00:18:51,190
+伊娃也是，这是一个模具
+And that was a mold associated lymphoma.
+
+123
+00:18:51,220 --> 00:18:55,578
+很难得到这么多
+So quite difficult to to get
+
+124
+00:18:55,608 --> 00:19:02,870
+谢谢你的邀请
+So many thanks for the invitation
+
+125
+00:19:02,900 --> 00:19:07,318
+我成了2美元以下的实用专利
+nigga under $2 utility patent I became
+
+126
+00:19:07,348 --> 00:19:10,558
+今天她到达了她的数字我可以
+who she reached her today number I can
+
+127
+00:19:10,588 --> 00:19:13,110
+讲协奏曲得到一个坚实的锤子
+tell of concerto get a solid hammer the
+
+128
+00:19:13,140 --> 00:19:16,019
+我可以使用我自己的秘密来获得一个
+console can I use my own secret he got a
+
+129
+00:19:16,048 --> 00:19:31,798
+先生。 namagachi Angela的问题
+mr. namagachi Angela question
+
+130
+00:19:31,828 --> 00:19:37,200
+谢谢你谢谢你的精彩
+Thank you. Thank you for your wonderful speech and I know TwinStream is very good.
+
+131
+00:19:37,230 --> 00:19:44,729
+认为它的原因非常好
+Because in China we use high frequency ventilation for many years.
+
+132
+00:19:44,759 --> 00:19:52,410
+你在中国认识的中国党
+But in China you know high frequency ventilator just have only one level pressure. But TwinStream has bi-level pressure.
+
+133
+00:19:52,440 --> 00:19:56,308
+堆积所以我们不能把pso2等同起来
+So we can increase the po2.
+
+134
+00:19:56,338 --> 00:20:00,420
+我说过我们是最重要的
+What is the most important for the high frequency.
+
+135
+00:20:00,450 --> 00:20:18,328
+后来的传统，但你好
+TwinStream has a license in rigid bronchoscopy.
+
+136
+00:20:18,358 --> 00:20:21,870
+包含有关ARP分配的本质
+But they still not got the license in ARDS.
+
+137
+00:20:21,900 --> 00:20:26,818
+我的意思是她非常有趣
+I am very interesting about the use of TwinStream in ARDS.
+
+138
+00:20:26,848 --> 00:20:36,210
+我们的情况当然我们使用我没有
+Of course we use I haven't shown that you know of course we use the TwinStream as well and rigid bronchoscopy.
+
+139
+00:20:36,240 --> 00:20:43,940
+正如我解释的那样，再次在德国复制
+But in Germany again as I explained before when I want to use rigid bronchoscopy I have to invite my anesthesiologist to come to my lab.
+
+140
+00:20:43,970 --> 00:20:54,120
+麻醉师来我的实验室
+And we have to pay them right so that increases the costs in my department.
+
+141
+00:20:54,150 --> 00:20:59,068
+我们尝试应用干预肺病学
+Whenever we can do things in intervention pulmonology we try to apply the nasal jabbed ventilation the Jack calf as I shown.
+
+142
+00:20:59,098 --> 00:21:08,940
+我展示的小牛或灵活的小牛
+Or the the flexible. There's a special flexible tube which you can ply as well as a flexible bronchoscopy.
+
+143
+00:21:08,970 --> 00:21:21,870
+然而，这节省了我的成本和
+However that saves me costs and the paper which I have shown with a hundred cases and 3300 was only done with flexible applications not rigid applications and we haven't seen any danger sign.
+
+144
+00:21:21,900 --> 00:21:33,420
+危险的标志，所以没有问题
+So there was no problem at all for po2 and as well not for pco2 where there was not really a dangerous increase of pco2 in about hundred cases.
+
+145
+00:21:33,450 --> 00:21:41,670
+你知道这样做了7075例IP
+You know so 7075 cases were done for IP and 25 cases were done for intervention cardiology and to intervention radiology.
+
+146
+00:21:41,700 --> 00:21:43,899
+这么安全很容易
+So very safe very easy.
+
+147
+00:21:43,929 --> 00:21:48,929
+为什么是谢谢你
+Yes thank you.
+
