@@ -6,6 +6,7 @@ import json
 import uuid
 import requests
 import hashlib
+import jieba
 
 
 class SrtRevisor:
@@ -101,6 +102,25 @@ class SrtRevisor:
         self.revise_num()
         self.revise_time()
 
+    def revise_chinese_length(self, line_length=26):
+        count = 0
+        length = len(self.chinese)
+        while count < length:
+            line = self.chinese[count]
+            if len(line) > line_length:
+                temp = jieba.cut(line)
+                c_t = 0
+                line = ''
+                for _ in temp:
+                    line += _
+                    c_t += len(_)
+                    if c_t >= line_length:
+                        line += '\\n'
+                        c_t = 0
+                # line = '%s\\n%s' % (line[:line_length], line[line_length:])
+                self.chinese[count] = line
+            count += 1
+
     def translate(self, start=0, end=None):
         length = len(self.number)
         if end is None:
@@ -172,11 +192,12 @@ class Translator:
 
 if __name__ == '__main__':
     ROOT = os.getcwd()
-    file_path = os.path.join(ROOT, 'data', 'version2.0.txt')
-    save_path = os.path.join(ROOT, 'result', 'version2.1.txt')
+    file_path = os.path.join(ROOT, 'data', 'version2.2.txt')
+    save_path = os.path.join(ROOT, 'result', 'version2.3.srt')
     srt_obj = SrtRevisor()
     srt_obj.read_file(file_path)
     srt_obj.print_len()
     srt_obj.revise_all()
-    srt_obj.translate(15)
+    srt_obj.revise_chinese_length()
+    # srt_obj.translate(15)
     srt_obj.write_file(save_path)

@@ -1,0 +1,705 @@
+1
+00:00:00,030 --> 00:00:05,578
+我专注于喷射通气研究，从那以后十多年一直坚持喷射通气\n研究。
+Now jet ventilation i'm belonging to I'm staying on jet ventilation then since more than a decade.
+
+2
+00:00:05,609 --> 00:00:19,798
+它在我实验室是绝对必需品。我的护士长每天早上打开喷射\n通气装置，下午或者晚上离开时关闭它。
+It's the absolutely necessity in my lab and my main nurse starts every morning to put on the jet ventilator and goes out of the lab in the afternoon or in the evening and put it off.
+
+3
+00:00:19,829 --> 00:00:26,368
+所以它始终是我实验室里的主要必需品。
+So it's always the main essential stuff in my lab.
+
+4
+00:00:26,399 --> 00:00:28,769
+喷射通气的优点很简单。
+Now one of the main advantages of jet ventilation is simply.
+
+5
+00:00:28,800 --> 00:00:34,469
+它在同一时间为您提供了通气和介入治疗。
+The fact that it offers you one access for ventilation and intervention at the same time.
+
+6
+00:00:34,500 --> 00:00:46,978
+如果你现在比较两张图片，你可以从第二张图片看到声门上\n的介入提供了更多更多的空间，在肺部运用中也是如此。
+And if you compare now the second picture here you have a lot of much more more space, more space to intervene from a supraglottic view and this is as well true for a lot of applications in the lung.
+
+7
+00:00:47,009 --> 00:01:00,478
+喷射通气是一个非常复杂的问题，你必须要明白的是，对于\n喷射通气必须开放式通气。
+Now physiology of jet ventilation is a very complex thing one of the main things what you have to understand is that for a jet ventilation you always have to have an open ventilation.
+
+8
+00:01:00,509 --> 00:01:03,000
+这是最主要的之一。
+That's one of the main things.
+
+9
+00:01:03,030 --> 00:01:08,548
+第二件事是你始终拥有探索灵感。
+The second one is that you have to have always inspiration exploration at the same time.
+
+10
+00:01:08,578 --> 00:01:19,078
+第三件事是你必须意识到有些患者有胸壁顺应性问题。
+And one of the the third things is that you have to be aware that some of the patients have a problem with thoracic wall compliance.
+
+11
+00:01:19,108 --> 00:01:30,620
+只有极少数患者不能运用喷射通气，这类患者在我认识的所有\n患者中占比不足百分之一。
+So there are only a very few patients which is where you cannot apply jet ventilation that's less than one percentage of all the patients I knew.
+
+12
+00:01:30,650 --> 00:01:41,489
+现在，让我们说说老式的 喷射通气。只有一种频率的通气\n，你可以选择低频或者高频。
+Now if you look for let's say the older forms of jet ventilation you only have one frequency and in regards to physiology you either can choose with a low frequency or a high frequency.
+
+13
+00:01:41,519 --> 00:01:51,328
+低频意味着你可以诱导潮气量。随着频率的提高，你可以增加\n，患者呼气末正压，这意味着氧合。
+With a low frequency that means you can induce tidal ventilation. With a higher frequency you can increase for example your  PEEP that means oxygenation.
+
+14
+00:01:51,358 --> 00:02:04,828
+但是如果你把这两种方法结合起来，那么如果你有一台机器\n同时提供一个正常频率的喷射和一个更高频率的喷射，你可以\n叠加这两种生理学效应。
+But if you combine two of these means so if you have a machine offering you a normal frequency jet and a higher frequency jet at the same time you can overlay these two physiologies.
+
+15
+00:02:04,858 --> 00:02:11,840
+当你同时控制PO2和PCO2时，这给你带来了巨大的优势\n。
+And that offers you great advantages as you control PO2 and PCO2 at the same time.
+
+16
+00:02:11,870 --> 00:02:28,478
+如果你使用这个，你在两个频率上有通气，即有一个双频率\n通气。并且可以通过较少的平台压；来降低二氧化碳分压。\n
+If you apply this you still have a bi-level ventilation but on both levels you have still oscillation and by this oscillation you can reduce PCO2 by less plateau pressures.
+
+17
+00:02:28,508 --> 00:02:40,758
+这是一个很大的优势，相比于传统的通气。如果你看看文献\n，已经有好文章发表。
+This is a great advantage in comparison to conventional tidal ventilation like by power and this is well very well published if you look into the literature.
+
+18
+00:02:40,788 --> 00:02:55,370
+2012年的研究表明，如果你将高频喷射通气与传统通气\n进行比较，你会发现氧合效果更好，二氧化碳的排出效果也\n更好。
+That's older - from 2012 showing that if you compare superimpose higher frequency jet ventilation with normal jet ventilation, then you can see that the oxygenation is better as well as the PCO2 clearance is better.
+
+19
+00:02:55,400 --> 00:02:57,679
+这就是二氧化碳排出。
+So that is the PCO2 clearance.
+
+20
+00:02:57,709 --> 00:03:03,788
+这是氧化。它比传统通气要好得多。
+That's the oxygenation. It's much better than normal frequency jet ventilation。
+
+21
+00:03:03,818 --> 00:03:14,627
+现在Carl Reiner已经发明了TwinStream\n。奥地利的Carl Reiner公司设计了很多最适合\n双频喷射通气的仪器。
+Now Carl Reiner has introduced the TwinStream. And Carl Reiner as a company from Austria has designed a lot of instruments optimal for the double frequency jet ventilation.
+
+22
+00:03:14,657 --> 00:03:23,719
+这是耳鼻喉科的一个例子。也适用于正常肺的硬支气管镜检查\n。
+This is one of the examples you can get it for ENT problem but as well for for rigid bronchoscopy in the normal pulmonary area.
+
+23
+00:03:23,750 --> 00:03:32,329
+这是TwinStream的显示屏。可以显示高频和低频\n的关系。
+This is the monitor of the TwinStream. you can apply as well each relations as well for the high frequency as well for the low frequency.
+
+24
+00:03:32,359 --> 00:03:45,889
+当然，您可以直接应用连接到体重的喷射压力，这是简单的\n设置。
+Of course you can apply the working pressure which is in easy settings only relay related or linked to the body weight.
+
+25
+00:03:45,919 --> 00:03:55,250
+对于更复杂的过程，可以手动设置。
+For the more complex procedures or views you can you can setup it manually.
+
+26
+00:03:55,280 --> 00:04:04,550
+这里有其他功能，比如激光安全模式。另外，你可以实时测量\n所有的压力。
+You have variable functions like laser function here for example you have complete real-time measurement of all the pressure which induce so.
+
+27
+00:04:04,580 --> 00:04:22,400
+我相信这是一个非常简单和安全的方法。这在胸外科、ICU\n、耳鼻喉科以及介入呼吸病学是一个非常好的机器。
+And I believe it's a very easy and safe mean it's a very good machine and I mean very well known applications thoracic surgery and ICU in ent but as well an intervention pulmonology.
+
+28
+00:04:22,430 --> 00:04:32,720
+就我个人而言，目前我每年使用它大约700到800次。\n稍后我会给你们看一些介入呼吸病学和心脏介入的例子。
+Personally I'm using it more or less 700 to 800 times per year at the moment international pulmonology as well interventional cardiology I will show you that later on some examples.
+
+29
+00:04:32,750 --> 00:04:46,909
+现在有些人认为喷射通气仍然是一件危险的事情，但这绝对\n不是真的，你有一个实时的压力监测，所以你不必担心气压\n伤，只要你保持通道畅通。
+Now some people believe that jet ventilation is still a dangerous thing that is definitely not true you have a real-time pressure monitoring so you don't have to fear borrow trauma as long as you keep that access open.
+
+30
+00:04:46,939 --> 00:04:58,340
+机器带有一个加湿器系统。你可以通过将两个不同频率的叠加\n来单独控制PO2和PCO2。
+You have a humidification system you can control separately by superposed on frequency jet ventilation PO2 and PCO2 by the two different frequencies.
+
+31
+00:04:58,370 --> 00:05:09,679
+如果你想以一种简单快捷的方式应用它，你只需要应用基于\n体重关联的参数。当然，TwinStream还有很多其他配件\n。
+If you want to apply it in an easy and quick way you only look for weight based parameters and of course there are a lot of instruments certified for that TwinStream.
+
+32
+00:05:09,709 --> 00:05:25,008
+我们在2008年发表了注册研究。我们分析了100个病人\n的3300个参数。这是一个典型的我们没有使用硬质支气管镜\n的应用。
+Now we published in 2008 in this more or less registry we analyzed in hundred patient 3,300 parameters and this is a typical application as we use it in non rigid approaches.
+
+33
+00:05:25,038 --> 00:05:35,780
+我们使用喷射导管。这是一种双腔导管。我们在做支气管镜\n检查时也可以使用。
+So we use that jet catheter that's a double lumen catheter in which we can do more or less everything which we can do as well over rigid bronochscopy.
+
+34
+00:05:35,810 --> 00:05:40,638
+除了喷射导管。我还有一个灵活的解决方案那就是喷射管。
+Beside that jet catheter and I have another flexible solution that's a jet tube.
+
+35
+00:05:40,668 --> 00:05:49,460
+这是一个特别设计的管子。我们非常喜欢这个方法。因为它\n给了我们稳定的流道，例如舌头。
+That's a specially designed tube we love this approach very much because it gives us as well stability in the fairings for the tongue for example.
+
+36
+00:05:49,490 --> 00:06:05,030
+这很简单。在德国，我得付钱给麻醉师。所以一个小时的麻醉\n花费了我250到300欧元，每例手术大约节省了我200\n欧元。
+And it's very easy to put it.In Germany, I have to pay the anesthesiologist. So one hour of anesthesiology costs me 250 to 300 euro and that saves me around 200 euro per case.
+
+37
+00:06:05,060 --> 00:06:15,558
+现在，如果你研究文献你会发现，在过去的三年里，关于鼻腔\n喷射通气的研究增加了四倍。
+Now if you go into the metrics and of literature you can see that in the last three years you have a four-fold increase about nasal jet ventilation.
+
+38
+00:06:15,588 --> 00:06:23,539
+这是一个即将推出的方法。我想给你们看一些我们在实验室\n里做的例子。
+So it's an upcoming method and I just want to show you some of the examples what we do in my lab.
+
+39
+00:06:23,569 --> 00:06:31,669
+很抱歉，音频目前没有声音。哦，你能听到，你能听到。
+So this is a so sorry for that the audio is not working at the moment oh you can hear you can hear it.
+
+40
+00:06:31,699 --> 00:06:38,900
+是的，这样你能听到背景里的喷射呼吸机，你能看到没有肺\n的运动，尽管我们要转到导航了。
+Yeah so that you hear the jet ventilator in the background and you see there's no lung movement although we go transfer to navigate small approach.
+
+41
+00:06:38,930 --> 00:06:49,299
+这是介入放射学。这是来自飞利浦的螺旋锥形束CT-clarity\n完成的。
+So that is more or less interventional radiology this is done under cone beam CT at the moment from Philips clarity.
+
+42
+00:06:49,329 --> 00:06:57,619
+这是EBUS的穿刺。这是心包入路EBUS。在2016\n年发表了这篇文章。
+This is a puncture of EBUS so it's a pericardial access pericardial access by EBUS we published this in 2016.
+
+43
+00:06:57,649 --> 00:07:04,248
+我们经常这么做，你可以在这里看到。
+We are doing that regularly you can see it here.
+
+44
+00:07:04,278 --> 00:07:10,369
+你们都能听到背景里的喷射通气声。你们能看到心包里的针\n。
+You all you again hear the jet ventilator in the background you see the needle in the pericardium.
+
+45
+00:07:10,399 --> 00:07:15,950
+你看，心脏在跳动，什么也没有发生。这绝对是我们需要的\n。
+You see beating heart and nothing happens we absolutely essential thing for this.
+
+46
+00:07:15,980 --> 00:07:20,808
+因为这种方法可以很好地控制肺部。对吧?
+For this approach is that you have perfect control of lung. Right?
+
+47
+00:07:20,838 --> 00:07:28,460
+这将通过鼻腔喷射通气来实现。我们这样做是为了分析心包\n积液。
+That's will be achieved with a nasal jet ventilation. We do that for analysis of pericardial effusion.
+
+48
+00:07:28,490 --> 00:07:42,619
+你们可以看到我是如何分析心包积液的。很简单的应用。
+You can see how I retrieve that pericardial effusion now again very easy application.
+
+49
+00:07:42,649 --> 00:07:49,760
+这是在热成型术中。正如我们之前听到的一样。你必须很好\n地控制肺部。
+This is during thermoplasty as we heard before again you have to have a very good control of the lung.
+
+50
+00:07:49,790 --> 00:07:55,369
+这是常规设置的喷射通气。
+And this is the regular set up the jet ventilator.
+
+51
+00:07:55,399 --> 00:07:58,400
+你现在看不到它，但你又能在背景中听到它。
+You don't see it at the moment but you can maybe you hear it in the background again.
+
+52
+00:07:58,430 --> 00:08:05,179
+这是进入鼻腔的通道。所以没什么特别的。
+It's the access again the nasal jet ventilation so nothing special.
+
+53
+00:08:05,209 --> 00:08:07,308
+但是绝对要控制肺部运动。
+But absolutely control about the lung.
+
+54
+00:08:07,338 --> 00:08:16,820
+这又是一个例子。在微波消融方法中，我们这样使用它。
+Again is the issue. During microwave ablation approach we use it like this.
+
+55
+00:08:16,850 --> 00:08:25,659
+在这里，我们测量了表内外的时间，与插管麻醉比较这种方法\n。
+Here, we measured the times on/off table for example when you compare this approach to intubation anesthesiology.
+
+56
+00:08:25,689 --> 00:08:33,559
+这样更快也更简单。我们只需要10分钟就能搞定。
+It is much faster and it's easier we only need 10 minutes of taking on the table.
+
+57
+00:08:33,589 --> 00:08:39,349
+如果你像常规麻醉一样麻醉，你需要更长的时间。
+And if you go for relaxation as it is done with anesthesiology you take much longer time.
+
+58
+00:08:39,379 --> 00:08:48,138
+所以在微波消融过程中我们可以控制得非常快。比如用那个\n仪器处理出血。
+So very quick fast easy we control during microwave ablation. Bleeding for example as well with that instrument.
+
+59
+00:08:48,168 --> 00:08:55,840
+所以放射科医生很喜欢这种方法。你能很好地控制肺部运动\n，就像你在这里看到的。
+So the radiologists love the approach you have perfect control of lung movement as you can see it here.
+
+60
+00:08:55,870 --> 00:09:02,660
+完美的控制。你真的可以告诉介入放射科医生，当肺部什么\n都没有发生的时候，你仍然可以控制血气。
+Perfect control. You really can tell the interventional radiologists when nothing is happening in the lung and you still have control of the blood gases.
+
+61
+00:09:02,690 --> 00:09:13,099
+还有一件事是我们可以用喷射导管作为放置支架的一种方法\n。
+Now as well one thing is that we can use that jet catheter as a mean for rigid stenting.
+
+62
+00:09:13,129 --> 00:09:22,340
+我们已经在脓毒性支气管瘘中使用了J支架，我们在鼻喷射\n通气下进行了放置。
+Though that means we've applied this J stenting in a septic bronoch fistula we applied rigid stent and deployment on nasal jet catheter.
+
+63
+00:09:22,370 --> 00:09:33,647
+这意味着我们对脓毒症患者的进行喷射，然后我们在喷射导管\n上来正确地放置支架，这样就能给你更多的安全。
+So it means we started with a jet catheter for ventilation in that septic patient and then we applied over the jet catheter rigid to deploy the stent right so that gives you more security.
+
+64
+00:09:33,677 --> 00:09:46,820
+当你开始这个过程，例如非常危急的病人，这是我们在气管\n中应用不同工作参数的另一个例子。
+When you start that process and for example very critical patients this is another example where we apply with different working parameters in the trachea.
+
+65
+00:09:46,850 --> 00:10:00,676
+这是一个鼻腔脓肿引流。使用一个7F的猪尾巴导管，你必须\n喷射通气情况下，保持它打开。
+So that was a per nasal and the luminal abscess drainage that's a 7F pigtail catheter you had to get into that caveat you have to keep it open by that Jet wire.
+
+66
+00:10:00,706 --> 00:10:07,099
+例如，在另一边有一个用于通气的喷嘴。
+For example, there's the jet for ventilation on the other side.
+
+67
+00:10:07,129 --> 00:10:09,619
+这是7F的导管。
+And that's the 7F pigtail.
+
+68
+00:10:09,649 --> 00:10:17,940
+这样做是灵活的，而不是死板的，对吧?
+This is done flexible not rigid right so again cheaper fast easy quick access.
+
+69
+00:10:17,970 --> 00:10:34,690
+要记住的一点是，在某些情况下，你必须使用所谓的远端通气\n，例如在气管撕裂或气管手术中，你必须针对你的问题来通气\n。
+And always one point is to remember that you have situations where you have the to apply the so-called distal ventilation that is for example sometimes in trachea lacerations or trachea surgery where you have to go beyond your problem to ventilate.
+
+70
+00:10:34,720 --> 00:10:51,460
+同样的，这很容易通过喷射导管来完成。这是一个我们已经\n成功的案例。通过抓取器来抓取气管支架。
+Again this is very easy to be done by the jet catheter that was a case where we've fixated and the trachea stent through a birdie needle there you  have a grabber to get that.
+
+71
+00:10:51,490 --> 00:11:03,700
+但是为了抓取成功。我们从上面通气的话那么我们就会有很多\n下面的操作空间。我们就更容易抓住那个东西。
+But to get that line and if I had ventilated from above you know then we had a lot of movement from below you know it's much easier for us to grab that thing.
+
+72
+00:11:03,730 --> 00:11:24,998
+这是一个肺导航中很重要的一个病例，你可以看到没有肺部\n运动。我有足够的时间旋转我的ENB导管进入这个结节，\n结节大约是18毫米到90毫米。
+This is a key case so related channel by a navigation and you can see again no lung movement all I have absolutely time to rotate my ENB catheter right to get into that nodule that was around 18 millimeters 90 millimeters.
+
+73
+00:11:25,028 --> 00:11:41,410
+这是类癌。这是完全必要。完美的肺控制。我们有时也使用\n它。
+And was a carcinoid and again this is absolutely a necessity of complete and perfect lung control right we use it sometimes as well.
+
+74
+00:11:41,440 --> 00:11:52,599
+例如，我们试图通过间接通气或肺叶本身的直接通气来证明\n肺叶是否紧密。所以我们可以用喷射通气来间接地证明。
+For example we try to prove if the load is dense by indirect ventilation or direct ventilation of the lobe itself so we can prove with a jet ventilation in an indirect mean.
+
+75
+00:11:52,629 --> 00:12:03,820
+如果肺叶非常紧密。现在我想给你们看一个我实验室锥束CT\n的例子。
+If the lobe is really dense now I just want to show you one case of my cone beam CT lab.
+
+76
+00:12:03,850 --> 00:12:12,580
+这是一位67岁的女士。她有这些结节已经3年了。这是一个\n大约11毫米的结节和一个80毫米的结节。
+That was a lady 67 years old she had these nodules for three years so that is a nodule about 11 millimeters and one nodule of 80 millimeters.
+
+77
+00:12:12,610 --> 00:12:20,050
+这是支气管和血管。我乐观估计情况似乎没有那么复杂。
+It was both bronchus and positive and vessels I'm positive now seems to be not that complicated.
+
+78
+00:12:20,080 --> 00:12:22,540
+但你可以看到会发生什么。
+But you can see what will happen.
+
+79
+00:12:22,570 --> 00:12:25,268
+这就是Clarity锥束CT。
+Now that's the clarity cone beam CT.
+
+80
+00:12:25,298 --> 00:12:32,340
+我用的是clarity，我用它已经一年半了，我们从Siemens\n改成clarity是因为一些经济上的原因。
+I use clarity I've been known since one and a half years so we changed from Siemens to clarity that was due to some economical things.
+
+81
+00:12:32,370 --> 00:12:38,849
+那台机器的一个优点是你什么都可以用。
+One advantage of that machine is that you can apply everything.
+
+82
+00:12:38,879 --> 00:12:41,128
+在实验室里你不用出去了。
+The whole planning in the lab now you don't have to go outside.
+
+83
+00:12:41,158 --> 00:12:48,748
+是的，有一些缺点，例如，你不能通过Philip来操纵\n头部本身。
+Yeah there are some disadvantages for example you cannot steer the head by Phillips from the head itself.
+
+84
+00:12:48,778 --> 00:12:50,940
+西门子有一些门把手，你可以做到这一点。
+You have some knobs with Siemens you can do that.
+
+85
+00:12:50,970 --> 00:12:54,450
+我们用这些天里。
+Now we used these days.
+
+86
+00:12:54,480 --> 00:13:02,128
+现在我们换成了美敦力的支气管镜，我们用VBN和锥束CT\n进行组合。
+The machines so the Medtronic system now we change to bronochscopy as well we have a combination of VBN and cone beam CT now.
+
+87
+00:13:02,158 --> 00:13:11,426
+我们成功地到达了结节。我们看到的是我们有一个很好的预先\n规划的路径。
+But however we managed to get there and what we saw is we had let's say quite good overlay of a pre-planned flat path
+
+88
+00:13:11,456 --> 00:13:21,027
+然后我们试着用我们的EBUS去看，大概到12点的时候\n我们对结果不满意。
+And then we try to see it with our EBUS and it was around 12 o'clock we were not satisfied with that.
+
+89
+00:13:21,057 --> 00:13:25,407
+我们做了另一个锥形束CT。我们可以看到结节在操作过程\n中分离。
+We've done another cone beam CT and we could see that the nodules separated during the manipulation.
+
+90
+00:13:25,437 --> 00:13:28,647
+在这里你可以看到它们不是分开的。
+Here you can see that not just separated.
+
+91
+00:13:28,677 --> 00:13:41,729
+你再次尝试进入那个结节。用 Clarity你可以看到\n二维和三维的叠加图像。
+You did it again managed to get into into that nodule and again here you can see the overlay of 2D and 3D and the clarity.
+
+92
+00:13:41,759 --> 00:13:50,998
+当然运动总是取决于对肺部膨胀的控制。
+And of course he see the movement it always depends on the control of the lung hyperinflation.
+
+93
+00:13:51,028 --> 00:13:53,878
+这是根据压力控制的喷射通气。
+So again that's what you control with a jet ventilator according to the pressure .
+
+94
+00:13:53,908 --> 00:14:00,296
+这是肺部肿瘤。
+And this was emitted lung tumor.
+
+95
+00:14:00,326 --> 00:14:04,099
+所以第一个结节不是恶性的。
+So the first nodule was not malignant.
+
+96
+00:14:04,129 --> 00:14:10,676
+有趣的是当我们试着找出这个结节是什么的时候。
+Now the interesting thing in that case was as we tried to figure out what this nodule was.
+
+97
+00:14:10,706 --> 00:14:21,119
+我们在EMN中看到一个超过三年的结节。我们总是可以到达\n那个部位，而不是那个部位。所以我们再次分割了那个结节\n我们只想进入那个区域。
+Again an nodule over three years we saw in EMN and we always could reach that part not that part so we segmented again that nodule and we only wanted to get into that area.
+
+98
+00:14:21,149 --> 00:14:32,460
+这就是为什么我们又做了一次转移。所以3D 重建结果显示\n这是一个肺肿瘤旁的脂质腺癌。
+That's why we did it again transfer asset so a plant 3D transfer asset approach and this was a lipid adenocarcinoma beside an omlette lung tumor.
+
+99
+00:14:32,490 --> 00:14:41,609
+这是一个通过锥形束CT和喷射通气完成的有趣的临床案例\n。
+So we were quite interesting case and all this is done and a cone beam CT and jet ventilation.
+
+100
+00:14:41,639 --> 00:14:52,897
+现在我们要结束了。对我来说，喷射通气尤其是鼻喷射通气\n对介入呼吸病学绝对必要的。
+Now to come to the End. For me jet ventilation especially nasal jet ventilation is an absolutely necessity and intervention pulmonology.
+
+101
+00:14:52,927 --> 00:15:04,147
+我们用常规的方法做了大约70例喷射通气，不用担心任何\n气压伤出现。
+And we're doing about 70 cases in on regular lab approaches with jet ventilation you do not have to fear any barotrauma
+
+102
+00:15:04,177 --> 00:15:07,479
+我们有一个非常安全的二氧化碳排出系统。
+You we have a very safe CO2 elimination.
+
+103
+00:15:07,509 --> 00:15:19,268
+在我们发表的那篇论文中我们没有发现任何与年龄，体重，\n心脏和充分性相关的风险信号。这些都发表得很好。
+In that one paper we published we couldn't find any risk sign in regards to age in regards to body weight in regards to heart and sufficiency for example it's all very well published.
+
+104
+00:15:19,298 --> 00:15:28,210
+有一个问题是平均42分钟后我们看到平均二氧化碳分压有所增加\n。
+So the only thing was that after an average time of 42 minutes we saw a little increase of PCO2 on average.
+
+105
+00:15:28,240 --> 00:15:39,190
+但是我们已经只通过鼻腔喷射通气做了长达四个半小时的干预\n。
+But we have none of these patients had to be ventilated by normal tube ventilation and we've done interventions up to four and a half hours only by nasal jet ventilation.
+
+106
+00:15:39,220 --> 00:15:44,647
+所以在德国，它为我们节省了很多钱。
+So in Germany it saves us a lot of money.
+
+107
+00:15:44,677 --> 00:16:00,878
+这个病例节省了200欧元左右。白冲主任，你知道那是第一个\n锥束CT的视频，当时我们在上海用TwinStream\n做的。
+Her case around 200 euro now Chong Bai you know that video that was one of the first cone beam CT is I think in Shanghai when we've done that as well with the TwinStream.
+
+108
+00:16:00,908 --> 00:16:04,809
+我喜欢那个视频。
+I love that video.
+
+109
+00:16:04,839 --> 00:16:20,460
+我总是演示它。这是非常美好的一天，因为我们在这一天做\n了三个病例，进行了现场干预。
+Still I always show it because it's a very nice day we've done three cases during that day with live intervention.
+
+110
+00:16:20,490 --> 00:16:35,027
+现在我把喷射导管放在这里。你用的是TwinStream\n这样你就能很好地控制肺部了。
+Now here I'm putting the jet catheter you're applying the TwinStream then you have perfect control of the lung.
+
+111
+00:16:35,057 --> 00:16:40,849
+用锥束CT做动态CT。
+You do the dynamic CT of the cone beam CT.
+
+112
+00:16:40,879 --> 00:16:46,460
+然后是结节的分割。
+Then you have the segmentation of that nodule.
+
+113
+00:16:46,490 --> 00:16:51,888
+它没有那么小。
+It was not that small.
+
+114
+00:16:51,918 --> 00:17:02,138
+2015年是第一次进行这种操作。
+However you know for these days it was the first time in 2015.
+
+115
+00:17:02,168 --> 00:17:09,498
+然后在这些情况下分割路径。
+And then you segment the path in these cases.
+
+116
+00:17:09,528 --> 00:17:31,787
+我们要做一个检查所以我们听到支气管处的声音。
+We have to do so we had a bronoch sound.
+
+117
+00:17:31,817 --> 00:17:46,576
+这在上海是第一次讨论关于锥形束CT培训中心的建立。
+These were the first discussions about the training center which you now have in Shanghai about the cone beam CT center.
+
+118
+00:17:46,606 --> 00:18:16,650
+所以了解锥束CT是如何工作的，这是一个非常复杂的学习\n领域。
+So that's a very sophisticated area to learn all these technologies just let it through. It's too much and it's so the people understand how cone beam CT works.
+
+119
+00:18:16,680 --> 00:18:27,460
+现在我们已经有了三维模型，就像你们在荧光图上看到的那样\n，你们并没有真正看到那种损伤，我们再做一个三维的扫描\n。
+Now you have the 3D models as you see on the fluoro you don't see really that kind of of lesion and you do a three-edged angulations.
+
+120
+00:18:27,490 --> 00:18:40,470
+我们可以看到3D和2D的叠加效果，这是一个很好的叠加\n效果，我们把它居中。
+We see how the 3D and 2D overlays that's quite a good overlay we are centered here.
+
+121
+00:18:40,500 --> 00:18:43,650
+我们有很高的活检特异性。因为我们也用EBUS来操纵。
+We have a high specificity of biopsy because we have controlled it with our EBUS as well.
+
+122
+00:18:43,680 --> 00:18:51,190
+这就是MALT相关淋巴瘤。
+And that was a MALT associated lymphoma.
+
+123
+00:18:51,220 --> 00:18:55,576
+很难做到。
+So quite difficult to get.
+
+124
+00:18:55,606 --> 00:19:31,797
+非常感谢你的邀请
+So many thanks for the invitation
+
+125
+00:19:31,826 --> 00:19:37,200
+谢谢你！谢谢你精彩的演讲，我知道TwinStream\n非常好。
+Thank you. Thank you for your wonderful speech and I know TwinStream is very good.
+
+126
+00:19:37,230 --> 00:19:44,729
+因为在中国我们使用高频通气已经很多年了。
+Because in China we use high frequency ventilation for many years.
+
+127
+00:19:44,759 --> 00:19:52,410
+但是在中国，你知道高频呼吸机只有一个水平压力。但是TwinStream\n有两种压力。
+But in China you know high frequency ventilator just have only one level pressure. But TwinStream has bi-level pressure.
+
+128
+00:19:52,440 --> 00:19:56,307
+所以我们可以增加PO2。
+So we can increase the PO2.
+
+129
+00:19:56,336 --> 00:20:00,420
+这对高频来说是最重要的。
+What is the most important for the high frequency.
+
+130
+00:20:00,450 --> 00:20:18,326
+TwinStream可以应用于硬质支气管镜。
+TwinStream has a license in rigid bronchoscopy.
+
+131
+00:20:18,356 --> 00:20:21,870
+但是现在仍然无法用于ARDS。
+But they still not got the license in ARDS.
+
+132
+00:20:21,900 --> 00:20:26,817
+我对ARDS中使用TwinStream非常感兴趣。
+I am very interesting about the use of TwinStream in ARDS.
+
+133
+00:20:26,846 --> 00:20:36,210
+当然我们用。我还没有展示我们用的是TwinStream\n来完成硬质支气管镜手术。
+Of course we use I haven't shown that you know of course we use the TwinStream as well and rigid bronchoscopy.
+
+134
+00:20:36,240 --> 00:20:43,940
+在德国，正如我之前解释过的，当我想要使用硬质支气管镜\n时，我必须邀请我的麻醉师来我的实验室。
+But in Germany again as I explained before when I want to use rigid bronchoscopy I have to invite my anesthesiologist to come to my lab.
+
+135
+00:20:43,970 --> 00:20:54,120
+我们必须付费，这样就增加了我们部门的成本。
+And we have to pay them right so that increases the costs in my department.
+
+136
+00:20:54,150 --> 00:20:59,067
+当我们要进行介入呼吸病学的工作时，我们就使用鼻腔喷射\n通气，像我展示的那样。
+Whenever we can do things in intervention pulmonology we try to apply the nasal jabbed ventilation the jet calf as I shown.
+
+137
+00:20:59,096 --> 00:21:08,940
+有一种特殊的软管，也可以用它来做支气管镜检查。
+Or the the flexible. There's a special flexible tube which you can ply as well as a flexible bronchoscopy.
+
+138
+00:21:08,970 --> 00:21:21,870
+这节省了我的成本。在论文中，我已经展示了100个案例\n和3300个参数，我们没有看到任何危险的迹象。
+However that saves me costs and the paper which I have shown with a hundred cases and 3300 was only done with flexible applications not rigid applications and we haven't seen any danger sign.
+
+139
+00:21:21,900 --> 00:21:33,420
+所以对于PO2来说没有任何问题，对于二氧化碳分压来说\n也没有任何问题。在大约100个案例中二氧化碳分压并没有\n真正的增加风险。
+So there was no problem at all for PO2 and as well not for PCO2 where there was not really a dangerous increase of PCO2 in about hundred cases.
+
+140
+00:21:33,450 --> 00:21:41,670
+75例患者接受了介入治疗25例接受了心脏介入治疗和放射治疗\n。
+You know so 75 cases were done for IP and 25 cases were done for intervention cardiology and to intervention radiology.
+
+141
+00:21:41,700 --> 00:21:43,897
+非常安全，非常简单。
+So very safe very easy.
+
