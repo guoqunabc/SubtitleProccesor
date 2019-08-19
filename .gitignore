@@ -5,8 +5,8 @@
 # IntelliJ project files
 .idea/
 .spyproject/
+__pycache__/
 *.iml
 *.pyc
 out
-gen
-~$*
+
