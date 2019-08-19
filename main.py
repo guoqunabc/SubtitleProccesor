@@ -103,21 +103,18 @@ class SrtRevisor:
         self.revise_time()
 
     def revise_chinese_length(self, line_length=26):
-        count = 0
-        length = len(self.chinese)
+        count, length = 0, len(self.chinese)
         while count < length:
             line = self.chinese[count]
             if len(line) > line_length:
                 temp = jieba.cut(line)
-                c_t = 0
-                line = ''
+                c_t, line = 0, ''
                 for _ in temp:
                     line += _
                     c_t += len(_)
                     if c_t >= line_length:
                         line += '\\n'
                         c_t = 0
-                # line = '%s\\n%s' % (line[:line_length], line[line_length:])
                 self.chinese[count] = line
             count += 1
 
